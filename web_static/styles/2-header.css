@@ -1,0 +1,11 @@
+/* Header style */
+header {
+    background-color: #FF0000;
+    color: #FFFFFF;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

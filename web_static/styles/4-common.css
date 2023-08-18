@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #F5F5F5;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: 30px auto;
+  }
+  
+  /* Additional common styles can be added here */
+  
